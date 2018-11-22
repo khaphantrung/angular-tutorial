@@ -28,6 +28,11 @@
   background-color: #DDD;
   left: .1em;
 }
+.heroes li a{
+  display: block;
+  text-decoration: none;
+  width: 100%;
+}
 .heroes .text {
   position: relative;
   top: -3px;
