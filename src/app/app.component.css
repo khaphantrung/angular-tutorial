@@ -1,4 +1,7 @@
 /* AppComponent's private CSS styles */
+#app-container{
+  background: #00000024;
+}
 h1 {
   font-size: 1.2em;
   color: #999;
